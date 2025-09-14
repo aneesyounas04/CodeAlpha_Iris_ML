@@ -1,7 +1,6 @@
 
 # My_Iris_Classification_Project
-## About
-Developed by Anees Younas during my CodeAlpha internship. A great learning tool for ML beginners!
+This project applies supervised machine learning to classify iris flower species based on petal and sepal measurements. Built as part of the CodeAlpha internship, it demonstrates model training, evaluation, and visualization using Python.
 ## Features
 - Uses the Iris dataset to classify flower species.
 - Includes data preprocessing and visualization.
